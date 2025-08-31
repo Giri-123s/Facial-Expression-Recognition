@@ -84,9 +84,14 @@ Open [http://localhost:5000](http://localhost:5000) in your browser.
 ## 📊 Sample Results
 | Image | Predicted Emotion |
 |-------|------------------|
-| ![](assets/happy.png) | 😀 Happy |
-| ![](assets/sad.png) | 😢 Sad |
-| ![](assets/angry.png) | 😠 Angry |
+| ![](assets/happy.png)   | 😀 Happy |
+| ![](assets/sad.png)     | 😢 Sad |
+| ![](assets/angry.png)   | 😠 Angry |
+| ![](assets/fear.png)    | 😨 Fear |
+| ![](assets/surprise.png)| 😲 Surprise |
+| ![](assets/disgust.png) | 🤢 Disgust |
+| ![](assets/neutral.png) | 😐 Neutral |
+
 
 ---
 
